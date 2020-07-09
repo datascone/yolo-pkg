@@ -1,0 +1,4 @@
+[submodule "src/yolo"]
+	path = src/yolo
+	url = git@github.com:datascone/yolov5.git
+	branch = pkg
